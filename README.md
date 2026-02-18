@@ -16,36 +16,27 @@ brew install --cask kochj23/apps/<app-name>
 
 ## Available Apps
 
-### Ready to Install (GitHub Release Available)
-
 | App | Install Command | Description |
 |-----|----------------|-------------|
-| Bastion | `brew install --cask kochj23/apps/bastion` | AI-powered penetration testing platform |
-| MLX Code | `brew install --cask kochj23/apps/mlx-code` | Local LLM-powered coding assistant using Apple MLX |
-| OneOnOne | `brew install --cask kochj23/apps/oneonone` | AI-powered 1:1 meeting manager |
-| MBox Explorer | `brew install --cask kochj23/apps/mbox-explorer` | Email archive viewer with AI-powered search |
-| RsyncGUI | `brew install --cask kochj23/apps/rsyncgui` | Professional rsync GUI with real-time progress |
-
-### Coming Soon (Release Pending)
-
-These cask formulas are ready and will become installable once DMG releases are uploaded to their GitHub repos.
-
-| App | Install Command | Description |
-|-----|----------------|-------------|
-| NMAPScanner | `brew install --cask kochj23/apps/nmapscanner` | Network security scanner with HomeKit discovery |
-| JiraSummary | `brew install --cask kochj23/apps/jirasummary` | Menu bar Jira/Azure DevOps activity tracker |
-| ExcelExplorer | `brew install --cask kochj23/apps/excelexplorer` | AI-powered Excel and spreadsheet viewer |
-| News Summary | `brew install --cask kochj23/apps/newssummary` | AI-powered news analysis with fact-checking |
-| URL Analysis | `brew install --cask kochj23/apps/url-analysis` | Web page performance analysis tool |
-| TopGUI | `brew install --cask kochj23/apps/topgui` | LCARS Star Trek themed system monitor |
-| Icon Creator | `brew install --cask kochj23/apps/icon-creator` | App icon generator for all Apple platforms |
+| Bastion | `brew install --cask kochj23/apps/bastion` | AI-powered network security scanner with ethical safeguards |
 | Blompie | `brew install --cask kochj23/apps/blompie` | Zork-style text adventure powered by Ollama AI |
-| HomeKit Control | `brew install --cask kochj23/apps/homekitcontrol` | Multi-platform HomeKit controller |
-| GTNW | `brew install --cask kochj23/apps/gtnw` | Global Thermonuclear War strategy simulation |
-| Mail Summary | `brew install --cask kochj23/apps/mailsummary` | AI-powered email assistant with Ollama/MLX |
-| RTSP Rotator | `brew install --cask kochj23/apps/rtsp-rotator` | RTSP camera feed rotator with UniFi integration |
-| Stream Rotator | `brew install --cask kochj23/apps/streamrotator` | RTSP stream rotator with Google Home voice control |
 | DotSync | `brew install --cask kochj23/apps/dotsync` | Dotfile sync via AWS S3, Azure, GCS, or iCloud |
+| ExcelExplorer | `brew install --cask kochj23/apps/excelexplorer` | AI-powered Excel and spreadsheet viewer |
+| GTNW | `brew install --cask kochj23/apps/gtnw` | Global Thermonuclear War strategy game inspired by WarGames |
+| HomeKit Control | `brew install --cask kochj23/apps/homekitcontrol` | Multi-platform HomeKit controller |
+| Icon Creator | `brew install --cask kochj23/apps/icon-creator` | App icon generator for all Apple platforms |
+| JiraSummary | `brew install --cask kochj23/apps/jirasummary` | Menu bar Jira/Azure DevOps activity tracker |
+| Mail Summary | `brew install --cask kochj23/apps/mailsummary` | AI-powered email assistant with Ollama/MLX |
+| MBox Explorer | `brew install --cask kochj23/apps/mbox-explorer` | Email archive viewer with AI-powered search |
+| MLX Code | `brew install --cask kochj23/apps/mlx-code` | Local LLM-powered coding assistant using Apple MLX |
+| News Summary | `brew install --cask kochj23/apps/newssummary` | AI-powered news analysis with fact-checking |
+| NMAPScanner | `brew install --cask kochj23/apps/nmapscanner` | Network security scanner with AI-powered threat detection |
+| OneOnOne | `brew install --cask kochj23/apps/oneonone` | AI-powered 1:1 meeting manager |
+| RTSP Rotator | `brew install --cask kochj23/apps/rtsp-rotator` | RTSP camera feed rotator with UniFi integration |
+| RsyncGUI | `brew install --cask kochj23/apps/rsyncgui` | Professional rsync GUI with real-time progress |
+| Stream Rotator | `brew install --cask kochj23/apps/streamrotator` | RTSP stream rotator with Google Home voice control |
+| TopGUI | `brew install --cask kochj23/apps/topgui` | Glassmorphic system monitor with AI-powered insights |
+| URL Analysis | `brew install --cask kochj23/apps/url-analysis` | Web page performance analysis tool |
 
 ## Requirements
 
