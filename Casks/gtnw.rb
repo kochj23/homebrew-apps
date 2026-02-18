@@ -1,11 +1,8 @@
 cask "gtnw" do
   version "1.0.0"
-  # TODO: Upload DMG to GitHub release and update sha256
-  # Current release only has tar.gz: GTNW-v1.0-macOS.tar.gz
-  # sha256 ""
+  sha256 "02dc20ae847525a88f9aa4f9dcda0e41ebaba2632927c77a7b9ba062b927beb3"
 
-  # TODO: Update URL when DMG is uploaded to release
-  # url "https://github.com/kochj23/GTNW/releases/download/v1.0.0/GTNW-v1.0.0.dmg"
+  url "https://github.com/kochj23/GTNW/releases/download/v1.0.0/GTNW-v1.0.0.dmg"
   name "GTNW"
   desc "Global Thermonuclear War - nuclear strategy simulation game inspired by WarGames"
   homepage "https://github.com/kochj23/GTNW"
@@ -16,5 +13,6 @@ cask "gtnw" do
 
   zap trash: [
     "~/Library/Preferences/com.jordankoch.GTNW.plist",
+    "~/Library/Caches/com.jordankoch.GTNW",
   ]
 end
